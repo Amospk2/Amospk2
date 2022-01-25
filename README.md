@@ -12,31 +12,22 @@ Hello everyone 👋🏾!!!
 - Java  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Gabriel-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+
   </div>
 <br>
 
 ## Front-end development Languages
 - JavaScript 
-- HTML5
-- CSS3
-- Vue.Js
-- Angular.Js
+
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Vue.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Gabriel-Angular.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
   </div>
 <br>
 
 ## Status
 <div style="display:flex;flex-wrap:no-wrap;">
-<img height="163em" src="https://github-readme-stats.vercel.app/api?username=Kuruegane&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
- <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruegane&layout=compact&langs_count=8&theme=midnight-purple"/>
+
 </div>
 
 
