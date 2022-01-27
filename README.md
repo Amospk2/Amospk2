@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amós Santos</h1>
 <h3 align="center">A passionate frontend developer from Brazil, love games and learn new things.</h3>
 
-- 🌱 I’m currently learning **Laravel, React and ReactNative**
+- 🌱 I’m currently learning **Laravel, React, ReactNative and machime learning**
 
 - ⚡ Fun fact **I play LOL...**
 
