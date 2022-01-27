@@ -36,9 +36,9 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amospk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amospk2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amos santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amos santos" height="30" width="40" /></a>
-<a href="https://fb.com/amos santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amos santos" height="30" width="40" /></a>
+<a href="https://twitter.com/Amospk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amospk2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/am%C3%B3s-santos-5a5a28181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amos santos" height="30" width="40" /></a>
+<a href="https://fb.com/Amospk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amos santos" height="30" width="40" /></a>
 <a href="https://instagram.com/amospk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amospk2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amospk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amospk2" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPJB9cgd2uF3JFa1bYXe2Dg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amospk2" height="30" width="40" /></a>
 </p>
