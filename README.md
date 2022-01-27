@@ -5,7 +5,7 @@
 
 - ⚡ I wanna find a new ways to solve problems and get new challenges on this. 
 
-- 🤝 We can growing up together even though see the world on different ways
+- 🤝 We can growing up together even though see the world on different ways.
 
 ## Front-end development Languages
 
