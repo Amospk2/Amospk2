@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amós Santos</h1>
 <h3 align="center">I'm a Full-Stack developer from Brazil, love games and learn new things.</h3>
 
-- 🌱 I’m currently learning **SpringBoot And ReactNative**
+- 🌱 I’m currently learning **SQL and Machime Learning**
 
 - ⚡ I wanna find a new ways to solve problems and get new challenges on this. 
 
