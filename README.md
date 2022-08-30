@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amosdres@gmail.com**
 
-- 📄 Know about my experiences "I'm waiting for an opportunity"
+- 📄 Know about my experiences **I'm waiting for an opportunity**
 
 - ⚡ Fun fact **I love music**
 
