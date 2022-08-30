@@ -5,23 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amospk2" alt="amospk2" /></a> </p>
 
-- 🔭 I’m currently working on [qa](a)
-
 - 🌱 I’m currently learning **Pandas and Flutter**
 
-- 👯 I’m looking to collaborate on [a](a)
-
-- 🤝 I’m looking for help with [a](a)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Amospk2](https://github.com/Amospk2)
-
-- 📝 I regularly write articles on [a](a)
 
 - 💬 Ask me about **Flutter, SQL and Python**
 
 - 📫 How to reach me **amosdres@gmail.com**
 
-- 📄 Know about my experiences [a](a)
+- 📄 Know about my experiences [I'm waiting for an opportunity](I'm waiting for an opportunity)
 
 - ⚡ Fun fact **I love music**
 
