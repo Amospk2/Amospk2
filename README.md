@@ -1,5 +1,5 @@
 <h1 align="center">Oi devs 👋</h1>
-<h3 align="center">Me chamo Amós, sou um programador brasileiro que ama games e aprender coisas novas!</h3>
+<h3 align="center">Me chamo Amós, sou um programador brasileiro que ama tecnologia e está buscando aprender coisas novas!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amospk2&label=Profile%20views&color=0e75b6&style=flat" alt="amospk2" /> </p>
 
