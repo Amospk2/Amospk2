@@ -9,7 +9,7 @@
 
 - 👨‍💻 Você pode encontrar meus projeto aqui mesmo!
 
-- 💬 Você pode me perguntar sobre **Flutter, Pandas, Django e Laravel**
+- 💬 Você pode me perguntar sobre **Flutter, Django e Laravel**
 
 - 📫 Para contato **amosdres@gmail.com**
 
@@ -20,7 +20,7 @@
 ## Se conecte comigo por:
 <p align="left">
 <a href="https://twitter.com/amospk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amospk2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amós santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amós santos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/am%C3%B3s-santos-5a5a28181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amós santos" height="30" width="40" /></a>
 <a href="https://fb.com/@amospkw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@amospkw" height="30" width="40" /></a>
 <a href="https://instagram.com/@amospkw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@amospkw" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/amospk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amospk2" height="30" width="40" /></a>
