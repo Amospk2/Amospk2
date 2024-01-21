@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amospk2" alt="amospk2" /></a> </p>
 
-- 🌱 Atualmente estou focando meus estudos em Flutter, Python(data engineer) e também desenvolvimento web usando novas tecnologias!
+- 🌱 Atualmente estou focando meus estudos em Flutter, Python e em Desenvolvimento Web usando novas tecnologias!
 
 - 👨‍💻 Você pode encontrar meus projeto aqui mesmo!
 
-- 💬 Você pode me perguntar sobre **Flutter, Django e Laravel**
+- 💬 Você pode me perguntar sobre **Flutter, Node e Python**
 
 - 📫 Para contato **amosdres@gmail.com**
 
