@@ -3,19 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amospk2&label=Profile%20views&color=0e75b6&style=flat" alt="amospk2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amospk2" alt="amospk2" /></a> </p>
+👋 Olá! Sou Amós, um estudante entusiasta de Sistemas de Informação na UESB, no 7º semestre da graduação, com uma paixão ardente por engenharia e análise de dados, além de desenvolvimento de sistemas. Com uma experiência robusta como desenvolvedor Fullstack e uma curiosidade inata para explorar novas tecnologias e resolver problemas complexos, estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos inovadores.
 
-- 🌱 Atualmente estou focando meus estudos em Flutter, Python e em Desenvolvimento Web usando novas tecnologias!
+🔧 **Tech Skills:**
+- **Linguagens de Programação:** Proficiente em Node.js, Golang, Python; familiarizado com PHP através do trabalho com Laravel.
+- **Desenvolvimento Web:** Experiência com VueJS, Nuxt, React, e um breve contato com GraphQL Node. Conhecimento em Laravel, Inertia, e Spring para desenvolvimento backend.
+- **Desenvolvimento Mobile:** Desenvolvi aplicativos usando Flutter, abrangendo uma variedade de funcionalidades e integrações.
+- **Engenharia de Dados:** Habilidades em pipeline de dados, orquestração (Airflow), ETL, ELT, e Webscraping, capaz de gerenciar e transformar grandes conjuntos de dados para insights valiosos.
+- **DevOps & Cloud:** Experiência com Git, Gitflow, Docker; cloud computing com Firebase e AWS, garantindo a eficiência e escalabilidade das aplicações.
+- **Metodologias e Práticas:** Forte aderência à metodologia ágil (Scrum), arquitetura limpa, e boas práticas de programação, visando sempre a qualidade e a manutenibilidade do código.
 
-- 👨‍💻 Você pode encontrar meus projeto aqui mesmo!
+💡 **Soft Skills:**
+- **Comunicação Efetiva:** Capaz de expressar ideias de forma clara e trabalhar em ambientes colaborativos.
+- **Gestão do Tempo:** Eficiente na priorização de tarefas e cumprimento de deadlines.
+- **Flexibilidade e Adaptabilidade:** Aberto a mudanças e desafios, adaptando-me rapidamente a novas tecnologias e projetos.
+- **Trabalho em Equipe:** Experiência em trabalhar em grupos diversificados, contribuindo para um objetivo comum com empatia e respeito.
 
-- 💬 Você pode me perguntar sobre **Flutter, Node e Python**
+🚀 Durante minha jornada, atuei como desenvolvedor Fullstack, mergulhando profundamente em tecnologias como VueJs, Python, e AWS, e anteriormente com Laravel/PHP, o que me proporcionou uma base sólida em diversas áreas do desenvolvimento de software.
 
-- 📫 Para contato **amosdres@gmail.com**
-
-- 📄 Sobre minhas experiências **Estou buscando uma oportunidade**
-
-- ⚡ Fun fact **Eu adoro musica :)**
+🌱 Estou constantemente aprendendo e buscando oportunidades para colaborar em projetos que desafiem minhas habilidades e permitam o crescimento conjunto. Se você está procurando um desenvolvedor comprometido, com uma base sólida em engenharia de dados e desenvolvimento fullstack, vamos conectar!
 
 ## Se conecte comigo por:
 <p align="left">
@@ -26,11 +32,9 @@
 <a href="https://www.youtube.com/c/amospk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amospk2" height="30" width="40" /></a>
 </p>
 
-## 🚀 Minhas Skills
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
-
 ## ⭐ Informações sobre minha conta GitHub
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amospk2&show_icons=true&locale=en&layout=compact" alt="amospk2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amospk2&show_icons=true&theme=dark&locale=en" alt="amospk2" /></p>
 
